@@ -1,0 +1,13 @@
+Chocolate Chip Cookies Recipe
+
+Ingredients:
+- 1 cup butter
+- 1 cup sugar
+- 2 cups flour
+- 1 tsp vanilla
+- Chocolate chips
+
+Instructions:
+1. Preheat oven to 180°C.
+2. Mix ingredients.
+3. Bake for 10-12 mins.
